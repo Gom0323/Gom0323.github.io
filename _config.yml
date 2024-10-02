@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "이승준"
-  avatar           :  path of avatar image, e.g. "/assets/images/profile.jpg"
+  avatar           : "/assets/images/profile.jpg"
   bio              : "집.코드.밥 그거면 충분하다"
   location         : "서울거주중"
   email            :
