@@ -133,10 +133,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/Gom0323"
+      #  url: "https://github.com/Gom0323"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://instagram.com/leesj0323"
+      #  url: "https://instagram.com/leesj0323"
 
 # Site Footer
 footer:
