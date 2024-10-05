@@ -15,13 +15,13 @@ remote_theme           : "Gom0323/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "이씨가문곰"
+title                    : "깃헙블로그"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 :  "집에가고싶다"
 name                     : "Gom0323"
-description              : "Gom0323 Blog"
+description              : "매일 공부하려고 노력은 함"
 url                      : "https://Gom0323.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/Gom0323/Gom0323.github.io"
@@ -117,11 +117,11 @@ author:
   avatar           : "/assets/cat.png"
   bio              : "집.코드.밥 그거면 충분하다"
   location         : "서울거주중"
-  email            : "sejong0323@gmail.com"
+  email            : # "sejong0323@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #  url: "mailto:sejong0323@gmail.com"
+       url: mailto:sejong0323@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
